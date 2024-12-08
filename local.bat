@@ -1,1 +1,1 @@
-python -m http.server -d src/
+python -m http.server
